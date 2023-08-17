@@ -1,0 +1,3 @@
+﻿  Snack Game.cpp
+C:\Users\PC\Desktop\lauch.json\Snack Game\Snack Game\Snack Game.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snack Game.vcxproj -> C:\Users\PC\Desktop\lauch.json\Snack Game\x64\Debug\Snack Game.exe
